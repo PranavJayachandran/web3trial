@@ -1,0 +1,110 @@
+{
+  "contractName": "TodoList",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603580601d6000396000f3fe6080604052600080fdfea165627a7a723058208be11b2447eeeb366fb3502d4a87885d24ba9ddfcdf32b82f3b07623f875626b0029",
+  "deployedBytecode": "0x6080604052600080fdfea165627a7a723058208be11b2447eeeb366fb3502d4a87885d24ba9ddfcdf32b82f3b07623f875626b0029",
+  "sourceMap": "27:27:1:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;27:27:1;;;;;;;",
+  "deployedSourceMap": "27:27:1:-;;;;;",
+  "source": "pragma solidity ^0.5.0;\r\n\r\ncontract TodoList{\r\n    \r\n}",
+  "sourcePath": "C:/Users/LENOVO/Desktop/react ideas/prac/try/contracts/TodoList.sol",
+  "ast": {
+    "absolutePath": "/C/Users/LENOVO/Desktop/react ideas/prac/try/contracts/TodoList.sol",
+    "exportedSymbols": {
+      "TodoList": [
+        35
+      ]
+    },
+    "id": 36,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 34,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 35,
+        "linearizedBaseContracts": [
+          35
+        ],
+        "name": "TodoList",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 36,
+        "src": "27:27:1"
+      }
+    ],
+    "src": "0:54:1"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Users/LENOVO/Desktop/react ideas/prac/try/contracts/TodoList.sol",
+    "exportedSymbols": {
+      "TodoList": [
+        35
+      ]
+    },
+    "id": 36,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 34,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 35,
+        "linearizedBaseContracts": [
+          35
+        ],
+        "name": "TodoList",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 36,
+        "src": "27:27:1"
+      }
+    ],
+    "src": "0:54:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.0+commit.1d4f565a.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0xA1F40e0f573276b75dd0093ce0eE7DE9415Fa5Ce",
+      "transactionHash": "0x30f1ae08288e590d31880f8af3c012e5485c2513c9fee240f60f822cc3496262"
+    }
+  },
+  "schemaVersion": "3.0.1",
+  "updatedAt": "2022-09-22T17:02:01.951Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
